@@ -34,3 +34,36 @@
 ### `  sudo apt install ros-melodic-desktop-full`
 
 ![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/06.PNG)
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/07.PNG)
+
+### `  echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc`
+
+
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/08.PNG)
+
+### `  source ~/.bashrc`
+
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/09.PNG)
+
+### `  sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential`
+
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/10.PNG)
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/11.PNG)
+
+
+### `  sudo apt install python-rosdep`
+
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/12.PNG)
+
+### `  sudo rosdep init`
+
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/13.PNG)
+
+
+### `  rosdep update`
+
+![](https://github.com/cpeibrahem/Installing-Robot-Arm-Packages-in-ROS/blob/main/image/14.PNG)
+
+
+
+
